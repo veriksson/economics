@@ -1,0 +1,10 @@
+Some small scripts for generating charts for my expenses.
+Eats some csv's, dumps another csv, display via cgi (or, just a png)
+
+
+TODO:
+    * Chart for tracking biggest expense / month
+    * Growth of income / month
+    * A smarter categorising system.
+    * Smarter check for income.
+
